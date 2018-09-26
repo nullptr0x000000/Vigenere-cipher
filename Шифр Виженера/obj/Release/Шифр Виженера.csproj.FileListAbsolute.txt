@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Release\Шифр Виженера.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Release\Шифр Виженера.exe
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Release\Шифр Виженера.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр_Виженера.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр_Виженера.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр Виженера.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр Виженера.exe
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр Виженера.pdb
+R:\C\документы\Visual Studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Release\Шифр Виженера.exe.config
+R:\C\документы\Visual Studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр Виженера.exe
+R:\C\документы\Visual Studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Release\Шифр Виженера.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.exe
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр_Виженера.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр_Виженера.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.exe
+c:\users\admin\documents\visual studio 2013\Projects\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.pdb
